@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20180"
-        version   = "3.3.0">
+        id        = "com.glearn.glearnemobile"
+        versionCode = "2018"
+        version   = "1.0">
     <name>Glearn Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Gitam
     </description>
 
     <author href="gitam.edu" email="araju.vasupali@gitam.edu">
