@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.glearn.glearnmobile"
         versionCode = "20180"
-        version   = "3.3.0">
-    <name>Moodle Mobile</name>
+        version   = "1.0>
+    <name>Glearn Mobile</name>
 
     <description>
-        Glearn Mobile official app
+        Glearn Mobile official 
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-       Glearn Pty Ltd
+    <author href="gitam.edu" email="araju.vasupalli@gitam.edu">
+       Glearn P
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
