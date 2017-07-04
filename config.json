@@ -9,7 +9,7 @@
     "wsservice" : "glearn_mobile_app",
     "wsextservice" : "local_mobile",
   
-    "siteurl": {"student": {"url": "https://glearntest.gitam.edu", "username": "", "password": ""}, "teacher": {"url": "https://glearntest.gitam.edu", "username": "teacher", password: ""}, "cva": {"url": "https://glearntest.gitam.edu", "username": "", "password": ""}},
+    "siteurl": {"student": {"url": "https://glearntest.gitam.edu", "username": "", "password": ""}, "teacher": {"url": "https://glearntest.gitam.edu", "username": "teacher", "password": ""}, "cva": {"url": "https://glearntest.gitam.edu", "username": "", "password": ""}},
 "gcmpn": "694767596569"
    
 }
